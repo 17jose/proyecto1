@@ -3,12 +3,14 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>quienes somos</title>
     </head>
     <body>
-        <h1>Quines somos</h1>
         
-        <h1>practicando taipeo</h1>
+        <h1>somos buenos</h1>
+        
+        <%@include file="menu.jsp" %>
+        
         <p>fdfasdf ag g a asf kjla fldgkasjg dj esto se una prueba de que tan rapido puedo escribir, veo que me falra 
         mucho para taipear a un buen nivel, hay que practicar mas, se que se puede
         a darlo con todo</p>

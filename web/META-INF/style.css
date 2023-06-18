@@ -1,0 +1,10 @@
+*{
+    margin: auto;
+    padding: auto;
+    
+}
+body ul{
+    margin: auto;
+    display: block;
+    text-decoration: none;
+}
