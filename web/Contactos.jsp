@@ -11,12 +11,13 @@
         <%@include file="menu.jsp" %>
         
         <form action="">
-            <label name="nombre">Nombre</label>
+            <label>Nombre</label>
             <input type="text" name="nombre">
             <br>
-            <label name="mensaje">Mensaje</label>
+            <label>Mensaje</label>
             <textarea name="mensaje" rows="3" cols="6"></textarea>
-            
+            <br>
+            <input type="submit">
         </form>
     </body>
 </html>
