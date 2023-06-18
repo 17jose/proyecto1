@@ -6,16 +6,17 @@
         <title>Contactos</title>
     </head>
     <body>
-        <h1>full contactos</h1>
+        <h1>CONTACTAME</h1>
         
         <%@include file="menu.jsp" %>
         
-        <p>contactanos mediante nuestras redes sociales:
-        facebook
-        twiter
-        instagram
-        whatsapp
-        telegram
-        etc</p>
+        <form action="">
+            <label name="nombre">Nombre</label>
+            <input type="text" name="nombre">
+            <br>
+            <label name="mensaje">Mensaje</label>
+            <textarea name="mensaje" rows="3" cols="6"></textarea>
+            
+        </form>
     </body>
 </html>
